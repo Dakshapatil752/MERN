@@ -1,0 +1,56 @@
+PS G:\MERN\Resume> dir
+
+
+    Directory: G:\MERN\Resume
+
+
+Mode                 LastWriteTime         Length Name                                          
+----                 -------------         ------ ----                                          
+d-----        11-08-2026     12:28                src                                           
+-a----        11-08-2026     11:49              0 index.html                                    
+-a----        11-08-2026     12:29            346 package.json                                  
+------        11-08-2026     12:29            140 vite.config.js                                
+
+PS G:\MERN\Resume> dir
+               
+
+    Directory: G:\MERN\Resume
+
+Mode                 LastWriteTime         Length Name                                          
+----                 -------------         ------ ----                                          
+d-----        11-08-2026     12:28                src                                           
+-a----        11-08-2026     12:32            333 index.html                                    
+------        11-08-2026     12:29            140 vite.config.js                                
+
+
+PS G:\MERN\Resume> npm install
+added 19 packages, and audited 20 packages in 50s
+
+found 0 vulnerabilities
+PS G:\MERN\Resume> npm list vite
+resume@1.0.0 G:\MERN\Resume
+├─┬ @vitejs/plugin-react@6.0.5
+│ └── vite@8.2.1 deduped
+└── vite@8.2.1
+
+PS G:\MERN\Resume> npm run dev
+
+> resume@1.0.0 dev
+> vite
+
+PS G:\MERN\Resume> npx vite
+
+  VITE v8.2.1  ready in 772 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+12:37:05 pm [vite] (client) [optimizer] bundling dependencies...
+
+
+
+
+
+
+
+
