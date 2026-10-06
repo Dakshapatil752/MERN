@@ -1,0 +1,3 @@
+Hello, this is Node.js!
+Welcome to Node.js File System.
+sanika is on fasting

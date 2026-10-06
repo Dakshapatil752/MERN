@@ -1,0 +1,5 @@
+Hello Daksha!
+Welcome to Node.js Streams.
+This is an example of a readable stream.
+We are learning Readable, Writable, Duplex and Transform streams.
+Streams process data efficiently in small chunks.
