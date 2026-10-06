@@ -13,7 +13,7 @@ const collegeData = {
     "The Department of Computer Science and Engineering is dedicated to providing quality technical education, practical learning and industry-oriented knowledge. Our department focuses on programming, software development, artificial intelligence, data science, cybersecurity and emerging technologies.",
 
   hod: {
-    name: "Dr. Raddheka Dhanal",
+    name: "Dr. Raddheka Dhannal",
     designation: "Head of Department",
     qualification: "Ph.D., M.Tech.",
     image: "/images/hod.jpg",
@@ -62,25 +62,25 @@ const collegeData = {
 
   faculty: [
     {
-      name: "Dr. Priya Sharma",
+      name: "Dr. Raddheka Dhannal",
       designation: "Professor & HOD",
       qualification: "Ph.D., M.Tech."
     },
 
     {
-      name: "Prof. Rahul Patil",
+      name: "Prof. Kishor Mane",
       designation: "Associate Professor",
       qualification: "M.Tech., B.E."
     },
 
     {
-      name: "Dr. Sneha Kulkarni",
+      name: "Dr. Shobha Patil ",
       designation: "Assistant Professor",
       qualification: "Ph.D., M.Tech."
     },
 
     {
-      name: "Prof. Amit Joshi",
+      name: "Prof. Sonali Shinge",
       designation: "Assistant Professor",
       qualification: "M.Tech., B.E."
     }
