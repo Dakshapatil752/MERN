@@ -1,0 +1,9 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Six Express.js learning examples",
+  "main": "01_basic_server.js",
+  "scripts": { "start": "node 01_basic_server.js" },
+  "dependencies": { "express": "^5.1.0" }
+}

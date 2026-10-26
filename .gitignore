@@ -5,3 +5,7 @@ dist/
 !.env.example
 .vscode/
 *.log
+
+**/node_modules/
+**/.env
+
